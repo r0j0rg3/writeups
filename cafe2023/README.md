@@ -24,7 +24,7 @@ There are more challenges solved, but or one of my partners did it, or they are 
 
 
 
-![certificate](./certificate)
+![certificate](./Certificate.png)
 ![Top Teams](./topTeams.png)
 ![Top Players](./topPlayers.png)
 
